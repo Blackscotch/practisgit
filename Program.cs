@@ -17,7 +17,6 @@ while (true)
     {
         Console.WriteLine("Элемент найден. Индекс элемента со значением {0} равен {1}", k, search);
     }
-    // Ккомментарий для теста
 }
 
 static int [] CreateArr(){
